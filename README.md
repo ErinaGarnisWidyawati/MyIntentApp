@@ -1,11 +1,11 @@
 # MyIntentApp
 # Home
 ![alt](https://github.com/ErinaGarnisWidyawati/MyIntentApp/blob/master/Screenshot_2022-02-24-07-11-04-80_fb5bad4084594c11e26b65c508210873.jpg)
-" Pada halaman HOME, terdapat beberapa button : "
-" 1. Pindah Activity "
-" 2. Move Activity Data "
-" 3. Pindah Activity Dengan Object "
-" 4. Dial Number "
+** Pada halaman HOME, terdapat beberapa button : **
+* 1. Pindah Activity *
+* 2. Move Activity Data *
+* 3. Pindah Activity Dengan Object *
+* 4. Dial Number *
 
 
 # Pindah Activity
